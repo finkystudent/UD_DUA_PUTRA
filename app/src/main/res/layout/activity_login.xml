@@ -15,6 +15,7 @@
         android:textcolor="#020202"
         android:enabled="false"
         android:text="LOGIN"
+        android:background="@drawable/custom_button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
