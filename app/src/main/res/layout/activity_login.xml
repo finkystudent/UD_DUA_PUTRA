@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="start"
         android:layout_marginBottom="64dp"
-        android:textcolor="#09098A"
+        android:textcolor="#020202"
         android:enabled="false"
         android:text="LOGIN"
         app:layout_constraintBottom_toBottomOf="parent"
