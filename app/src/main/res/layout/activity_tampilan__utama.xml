@@ -63,12 +63,14 @@
         android:layout_height="50dp"
         android:background="@drawable/custom_button"
         android:text="LAP.AKTIVITAS"
+        android:onClick="Lap_Aktivitas"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.159"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.555" />
+        app:layout_constraintVertical_bias="0.555"
+        tools:ignore="OnClick" />
 
     <Button
         android:id="@+id/button2"
