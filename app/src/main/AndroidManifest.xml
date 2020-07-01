@@ -13,7 +13,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Item_Pemesanan"></activity>
+        <activity android:name=".LapAktivitas"></activity>
+        <activity android:name=".Item_LapAktivitas" />
+        <activity android:name=".Item_Pemesanan" />
         <activity android:name=".Item_Tambah_Toko" />
         <activity android:name=".Item_Produk" />
         <activity android:name=".Pemesanan" />
